@@ -2,7 +2,7 @@ Term 3 Project
 
 CGSpectrum
 
-[Download the video](https://github.com/yourusername/yourrepository/raw/main/path/to/yourvideo.mp4)
+[Download the video](https://github.com/JJisoffline/FirstBlue/blob/main/FirstBlue%20-%20Unreal%20Editor%202024-07-24%2000-42-13.mp4)
 
 Controls:
 
